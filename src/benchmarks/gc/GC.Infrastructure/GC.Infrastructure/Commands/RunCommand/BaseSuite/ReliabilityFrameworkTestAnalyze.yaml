@@ -1,0 +1,8 @@
+﻿DumpFolder: 
+AnalyzeOutputFolder: 
+StackFrameKeyWords:
+  - "::gc_heap::"
+  - "::GCHeap::"
+DebuggerPath: windbgx
+CoreRoot: 
+WSLInstanceLocation: \\wsl.localhost\Debian
